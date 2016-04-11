@@ -1,1 +1,2 @@
 # mergeexample
+A
