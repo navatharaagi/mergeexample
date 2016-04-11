@@ -1,2 +1,3 @@
 # mergeexample
 A
+B
